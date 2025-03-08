@@ -33,7 +33,9 @@ ENV/
 
 # Project specific
 models/*.pt
+models/*.torchscript
 data/videos/*
+data/test_*.mp4
 data/output/*
 !data/videos/.gitkeep
 !data/output/.gitkeep
