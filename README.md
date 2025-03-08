@@ -25,8 +25,8 @@ A comprehensive computer vision system that performs real-time object detection 
 1. Clone the repository:
 
 ```bash
-git clone <your-repo-url>
-cd object-detection
+git clone https://github.com/maheshreddyy345/computervision.git
+cd computervision
 ```
 
 2. Install dependencies:
